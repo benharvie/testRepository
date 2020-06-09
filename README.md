@@ -1,3 +1,3 @@
-# testRepository xyz
+# testRepository
 This is a test repository.
  
