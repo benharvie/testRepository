@@ -1,2 +1,2 @@
 # testRepository
-Just testing things xoxoxoxo
+This is a test repository.
