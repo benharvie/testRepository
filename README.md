@@ -1,4 +1,4 @@
 # testRepository
 This is a test repository.
 
-Back at it again :) xoxoxo
+Back at it again :) xo
